@@ -107,7 +107,7 @@ Trong tác phẩm Squaring the circle (Bài toán cầu phương hình tròn) xu
 
 Mặc dù bài toán cổ đại này đã được nghiên cứu để tìm ra lời giải xuyên suốt nhiều thế kỷ. Nhưng phải mãi đến tận thế kỷ 19, việc sử hai công cụ chính là thước thẳng và compa để chia ba một góc, mới được các nhà toán học lúc này chứng minh, sau cùng lại là điều bất khả thi.
 
-## 2.	Sự bất khả thi của bài toán chia ba một góc
+## 2. Sự bất khả thi của bài toán chia ba một góc
 
 Có nhiều lý do khiến nhân loại phải dành rất nhiều thời gian, công sức lâu dài đến vậy mới đi đến được kết luận “bất khả thi” ấy. Nhưng lý do chính vẫn đến từ việc, những chứng minh về tính bất khả thi của bài toán lại không đến từ hình học, mà là sự hiểu biết sâu sắc về đại số. 
 
@@ -199,3 +199,113 @@ Tiếp đến, vận dụng **mệnh đề phân giác** để chia đôi ∠BAD
 Một số trường hợp góc “đặc biệt” khác ngoài góc $90^o$ mà chúng ta có thể nhắc đến, lần lượt với số đo góc là $45^o$, $72^o$, $180^o$, $360^o$. `Khi biểu diễn các góc đây thành các phương trình đại số và suy ra các nghiệm từ các góc đặc biệt này đều thỏa mãn với chứng minh  . . . rằng . . .` <!--kiểm tra và viết lại-->
 
 <!--. . . (bảng phương trình và nghiệm các góc)-->
+
+`Các góc như vậy muốn có thể dựng hình để chia ba một góc thành công thì chỉ có thể được thực hiện một cách gián tiếp thông qua việc sử dụng thước thẳng và compa cổ điển để giải quyết một vấn đề dựng hình nổi tiếng khác của các toán học Hy Lạp, đó là bài toán dựng đa giác đều. 
+
+<!--. . . . . (viết thêm phần này để kết nối với đoạn sau)-->
+
+`Sau đó,  . . . . cũng đã được nhà toán học Wantzel giải quyết và trình bày đầy đủ cũng trong bảy trang toán học kì diệu này, bên cạnh vấn đề chứng minh khả thi cho bài toán chia ba một góc.` <!--đang viết nhăng viết cuội á :>>-->
+
+<!--. . . . . (viết phần chứng minh dựa vào định lý Gauss - Wantzel)-->
+
+<!--. . . . . (trình bày diễn giải việc chia ba một góc thông qua đa giác đều)-->` <!--đang viết nháp-->
+
+`Từ những kết quả đã được chứng minh ở trên, ta có thể rút nhanh thành định lý sau:`
+
+`Định lý chính về việc chia ba một góc qua việc dựng hình đa giác đều: Gọi ∠AOB là một góc ở tâm của một đa giác đều q cạnh (∠AOB = 2π/q) có thể được chia ba một góc bằng thước thẳng và compa thông qua đa giác đều n = 3.q cạnh khi và chỉ khi n, q là số cạnh có thể dựng được đa giác đều và q không phải là bội của 3.` <!--đang viết nhăng viết cuội á :>>-->
+
+`“Pagina mirabilis” hay dịch nôm na là “trang kì diệu”, xứng đáng là cụm từ dành riêng cho công trình nghiên cứu của nhà toán học Pierre Wantzel, về sự kì diệu, vĩ đại mà ông đã mang lại cho giới toán học. Với những đóng góp quan trọng của mình, ông hoàn toàn xứng đáng được mọi người biết đến, công nhận, ca ngợi ông là một nhà toán học đầy tài năng như bao nhà toán học khác có được nhờ nghiên cứu mang tính đột phá cho toán học. Nhưng đáng buồn thay, trong con mắt thế giới, cái tên Pierre Wantzel ấy gần như đã bị lãng quên. Thậm chí có một khoảng thời gian rất dài, chứng minh khả thi của Wantzel không ai hay biết đến, và còn thường xuyên bị nhầm lẫn với một nhà toán nào đó khác mà không phải ông một cách vô cùng tai hại. ` <!--đang viết nhăng viết cuội á :>>-->
+
+`Chỉ cho đến khi, từ việc tái khám phá lại chứng minh bất khả thi cho các bài toán dựng hình cổ điển của các nhà toán học sau này như Julius Petersen, Felix Klein, Max Simon, Florian Cajori và đặc biệt là Johannes Tropfke trong . . .  Cái tên Pierre Wantzel ấy mới được làm sống lại, và ... Dù điều nãy đáng lí đã phải được nghiễm nhiên cách đây 100 năm về trước, khi mà Wantzel còn sinh sống và làm việc trên quả đất này.` <!--đang viết nhăng viết cuội á :>>-->
+
+Về sự nghiệp của Pierre Wantzel, ngoài công việc chính là giảng dạy tại trường đại học Bách khoa Paris (École Polytechnique) danh giá. Ông còn theo đuổi một sự nghiệp nghiên cứu rộng lớn, trải dài từ lĩnh vực toán học, với trọng tâm là về các bài toán thời Hy Lạp cổ đại và các vấn đề khác của đại số. Cho đến lĩnh vực mật thiết khác với toán học là vật lý, ông cũng đã dành thời gian, tâm huyết của bản thân với các vấn đề nghiên cứu về dòng chảy của không khí khi có sự chênh lệch áp suất lớn và lý thuyết về độ cong của các thanh đan hồi. 
+Không dừng lại ở đó, ông còn đảm nhận, phụ trách kỳ thi tuyển sinh của trường Bách khoa Paris, song song với việc giảng dạy nhiều khóa học toán và vật lý tại nhiều trường học lận cận khác ở Paris. Ông làm việc hăng say từ 10 đến 12 tiếng mỗi ngày, thậm chí ngay cả khi bản thân ông đang bị ốm nặng.
+
+Hệ quả từ những ngày, tháng bất chấp sức khỏe của bản thân với công việc, là nhà toán học tận tâm nhưng đầy khắc nghiệt ấy đã qua đời khi chỉ mới 33 tuổi, không kịp cho ông có được một vị trí cao hơn, xứng đáng hơn tại Viện hàn lâm khoa học Pháp (Académie des Sciences), vì những công hiến, đóng góp quan trọng mà ông đã mang lại cho toán học lẫn vật lý. 
+
+Nhà toán học người Pháp Jean Claude Saint-Venant, người từng cộng tác với Wantzel nghiên cứu và viết bài báo về hệ thống khí động lực học dòng chảy (The following system gas dynamics), đã tưởng nhớ về người đồng nghiệp đoản mệnh trong *Biographie: Wantzel* (Bài tiểu sử về Wantzel) trên tờ Nouvelles Annales de Mathématiques (Tạp chí biên niên sử toán học mới) của Pháp, tập 7 (1848), trang 321 – 331 này như sau: 
+
+> “. . . .
+Ông ấy thật đáng trách vì đã quá bất chấp những lời khuyên thận trọng và chân thành của bạn bè. Thông thường, ông làm việc suốt đêm, chỉ nằm nghỉ khi đã rất muộn, rồi lại đọc sách, ngủ chập chờn vài tiếng, và luân phiên lạm dụng cà phê cùng thuốc phiện. Ông ấy ăn uống thất thường cho đến khi kết hôn. Ông đặt niềm tin vô hạn vào sức khỏe trời ban của mình, thách thức nó bằng mọi cách có thể. Sự mất mát sớm của ông đã để lại niềm thương tiếc sâu sắc cho những người từng yêu mến và trân trọng ông
+. . . . .”
+
+Nhà toán học Pierre Wantzel đã để lại không chỉ trường đại học Bách khoa Paris, nơi ông làm việc, mà còn là thế giới toán học và khoa học một vệt sáng rực rỡ. Đáng tiếc thay, nó lại giống như ánh sao băng, lóe lên rồi lại vụt tắt giữa những tầng trời mây xa xôi, trước khi chúng kịp được chiêm ngưỡng một cách trọn vẹn. 
+
+
+## 3. Chuyện về những kẻ lập dị trong toán học 
+
+Kể từ khi nhà toán học Pierre Wantzel chứng minh việc chia ba một góc, vấn đề của các nhà toán học Hy Lạp về thước thẳng và compa đã được giải quyết trọn vẹn tổng quát là bất khả thi (chỉ trừ một vài trường hợp đặc biệt như đã nêu ở phần trên). Nhưng thỉnh thoảng, vẫn có những nhà toán học nghiệp dư cố gắng tiếp tục tìm ra một cách dựng cho bài toán, nhằm tìm ra lỗi sai trong cách lập luận của Wantzel. Hoặc có khi chính họ cũng không biết đến chứng minh khả thi của Wantzel nên mới vẫn đi làm như vậy. Thậm chí, họ còn tự tuyên bố là đã thành công và cũng sẵn lòng từ chối lắng nghe bất kỳ lập luận nào chứng minh rằng họ đã sai.
+
+Nhà toán học và nhà văn người Mỹ Underwood Dudley gọi những người vẫn kiên trì theo đuổi mục tiêu bất khả thi này là những “kẻ lập dị toán học”, cố chấp giữ vững niềm tin mà người khác đã chứng minh, xác thực là điều không thể. Ông còn dành hẳn một cuốn sách để viết về những công trình chia ba một góc của họ. Cụ thể là trong tác phẩm *A Budget of Trisections* (Tuyển tập các phép chia ba góc) được xuất bản vào năm 1987, Dudley trình bày:
+
+> “. . . Điều tôi sắp trình bày sau đây là một việc chưa từng có tiền lệ: một nỗ lực nhằm làm điều có thể còn bất khả thi như chính việc chia ba một góc, đó là chấm dứt mọi nỗ lực chia ba góc và chấm dứt cả những người theo đuổi nó . . .” 
+
+<div align="center">
+
+<img src="./images/Section 3/img3-1.jpg" width="250px"> <!--chưa vẽ hình-->
+
+Hình ... : Ảnh bìa tác phẩm “A Budget of Trisections”. Nguồn: https://link.springer.com/book/10.1007/978-1-4419-8538-5
+
+</div>
+
+Bìa sách của ông còn mang một hình minh họa đầy tính hài hước và châm biếm, lấy cảm hứng từ hình tượng văn học Don Quixote nổi tiếng, nhằm ám chỉ các “nhà chia ba góc” (trisectors) như những hiệp sĩ mộng tưởng, hăng hái chiến đấu với những điều không thể.
+
+Nhiều năm sau tác phẩm *A Budget of Trisections* của mình, Dudley vẫn tiếp tục nghiên cứu các phép dựng chia ba một góc mà những dị nhân trong toán học ấy chứng minh nên. Ông nhận ra một điều thú vị về những kẻ mà ông dán nhãn cho là quái dị đó, rằng thực chất chúng có những khuôn mẫu, đặc điểm nổi bật nhất định, khá rõ ràng để chúng ta có thể nhận diện được. Ông đã phác họa rõ nét điều này trong cuốn *The Trisectors*, xuất bản vào năm 1996, về một kẻ đi chia ba một góc điển hình như sau: 
+
+1.	Họ là đàn ông.
+2.	Họ lớn tuổi, thường đã nghỉ hưu.
+3.	Họ không hiểu thế nào là “bất khả thi” trong toán học.
+4.	Nền tảng toán học của họ khá khiêm tốn, khả năng cao dừng lại ở hình học cấp phổ thông.
+5.	Họ tin rằng bài toán chia ba một góc là một vấn đề trọng đại cần được giải quyết, và rằng công trình của họ sẽ đem lại cho họ tiền bạc hoặc danh vọng rực rỡ.
+6.	Các “chứng minh” của họ luôn đi kèm những hình vẽ chi chít và rối rắm.
+7.	Thường là bất khả thi khi cố gắng thuyết phục họ rằng họ đã sai.
+8.	Họ là những cây bút bền bỉ và năng suất, sẵn sàng đủ sức cuốn bay sạch thời gian của bất cứ ai khi đã trót lỡ quan tâm đến họ.
+
+Sau cùng, Dudley khép lại phần mô tả của mình về những “kẻ lập dị toán học” bằng một lời đùa đầy duyên dáng và sâu cay như sau:
+
+> “Giờ thì, bạn có thể nhận ra một kẻ chia ba góc khi thấy hắn tiến lại gần không? Và bạn có biết phải làm gì trong tình huống đó không ? Gợi ý nhé, việc ấy liên quan đến đôi chân của bạn. Ý tôi là không phải là để đá hắn đâu.”
+
+Một câu kết vừa hóm hỉnh, vừa ẩn chứa một lời khuyên nghiêm túc, rằng cách tốt nhất để đối phó với những nhà phát minh vĩ đại tự phong ấy, chỉ đơn giản là việc chúng ta quay lưng mà bỏ đi mà thôi. Nhưng với Dudley, câu chuyện của ông có phần ngang trái, éo le hơn, so với những gì mà ông từng khuyên với các quý độc giả của mình.
+
+Vào những năm 1990, Dudley bất ngờ trở thành bị đơn trong một vụ kiện do một người có tên là William Dilworth, một trong những nhân vật mà ông từng nhắc đến trong cuốn Mathematical Cranks (Những kẻ lập dị toán học) xuất bản vào năm 1992 khởi tố. Ban đầu, tòa án liên bang đặt tại Wisconsin (Federal courts located in Wisconsin) đã bác bỏ vụ kiện, cho rằng lời cáo buộc của Dilworth không có cơ sở rõ ràng, mà chỉ là quy kết với Dudley. Tuy nhiên, Dilworth không chịu dừng lại, ông tiếp tục kháng cáo lên tòa Phúc thẩm cho Khu vực thứ Bảy (The Seventh Circuit Court of Appeals), nơi mà Dudley tiếp tục thắng kiện. Dẫu vậy, Dilworth vẫn không chịu buông bỏ, ông lại một lần nữa đưa Dudley ra tòa, lần này là tại tòa án tiểu bang Wisconsin (State courts of Wisconsin).
+
+Kết cục thật trớ trêu thay, Dilworth thua kiện hoàn toàn, và còn phải trả bảy nghìn đô la Mỹ để bồi hoàn chi phí pháp lý cho phía Dudley. Một kết thúc chẳng khác nào minh chứng sống động cho luận điểm mà Dudley từng nêu ra, rằng những kẻ lập dị trong toán học như là Dilworth, chỉ đang cố chấp một cách mù quáng với bản thân, mà không bao giờ biết khi nào nên dừng lại.
+
+## 4. Origami hình học -  Sự khả dĩ đến từ góc nhìn mới 
+
+Lịch sử về nghệ thuật gấp giấy, bắt đầu từ thời điểm việc từ sau khi giấy được con người chúng ta phát kiến ra và được sử dụng chính thức từ khoảng 2000 năm trước. Trải qua nhiều thể kỉ quá trình du nhập, theo dòng chảy từ văn hóa Trung Quốc đến Nhât Bản, thay đổi, phát triển, được hoàn thiện qua đôi tay và bộ óc sáng tạo của những người thợ lành nghề đầy sự tinh tế, tài hoa. Sau cùng, chúng cũng đã được thống nhất dưới một tên gọi chung chính thức là “origami”, mà ngày nay vẫn còn được sử dụng trong các văn bản, cũng như là giao tiếp hằng ngày. 
+
+Bản thân từ "origami" trong tiếng Nhật là từ ghép của hai từ tiếng Nhật nhỏ hơn, với "ori", nghĩa là gấp, và "gami", nghĩa là giấy. Với sức hấp dẫn đặc biệt của mình, origami đã, đang và sẽ vẫn là một trò tiêu khiển phổ thông, phổ biến, được yêu thích bởi mọi lứa tuổi, không chỉ tại Nhật Bản mà còn trên toàn thế giới trong nhiều thập kỷ, thậm chí là nhiều thế kỷ về sau đó nữa.
+
+Trong origami, mọi người có thể tạo ra những món đồ thủ công tuyệt đẹp chỉ bằng một tờ giấy. Có nhiều kỹ thuật gấp giấy khác nhau được sử dụng trong origami và không có kỹ thuật nào quá khó để mỗi người có thể học, thực hành, biến miếng giấy từ một chất liệu đơn giản thành những hình dạng phức tạp, cầu kì, công phu mà không cần phải cắt, dán trong quá trình gấp. 
+
+<div align="center">
+
+<img src="./images/Section 4/img4-1.jpg" width="400px"> <!--chưa vẽ hình-->
+
+<img src="./images/Section 4/img4-2.jpg" width="400px"> <!--chưa vẽ hình-->
+
+Hình ...: Các sản phẩm thủ công từ origami. Nguồn: Internet
+
+</div>
+
+Từ đầu thế kỷ thứ 20, origami đã có những ý nghĩ đột phá lớn hơn không chỉ dừng lại là một sở thích thư giãn đơn thuần, khi mà ngày càng có nhiều nghiên cứu được thực hiện để tìm hiểu và mở rộng hơn về chúng. Đối với toán học, điều đặc biệt ở lĩnh vực đây là nó có mối liên kết khăng khít thật sự với bộ môn nghệ thuật gấp giấy thú vị này, khi mà các nhà toán học nhận ra rằng, có những nguyên lý toán học nghiêm túc, khả thi đằng sau việc chúng ta thực hiện các thao tác gấp trên một hoặc nhiều tờ giấy khác nhau.
+Điều này đã mở ra một lĩnh vực nghiên cứu hoàn toàn mới gọi là origami hình học, trong đó các nhà toán học quan tâm đến các tính chất hình học của những nếp gấp origami, đưa ra các lý thuyết, chứng minh một cách chặt chẽ, và vận dụng những điều trên để áp dụng với các chủ đề toán học và khoa học một cách đầy thú vị.
+
+Với một tờ giấy bất kì có hình dạng là một hình vuông hoặc một hình chữ nhật, chúng ta bắt đầu với bốn đoạn thẳng, chính là bốn cạnh và bốn điểm được đánh dấu ở bốn góc của tờ giấy ở một trong hai hình dạng đó. Chúng ta có thể nghĩ đến những nếp gấp với rất nhiều đường nét khác nhau mà ta làm với những tờ giấy hằng ngày. Tuy nhiên, chỉ một trong số đó là những đường dựng được, nghĩa là chúng ta có thể đưa ra các quy tắc chính xác để gấp chúng mà không cần dùng thước thẳng hay công cụ khác. Mỗi quy tắc gấp cơ bản này còn được gọi là tiên đề origami.
+
+Tiên đề origami tập hợp gồm bảy tiên đề khác nhau, được khám phá để mô tả origami hình học. Bản tuyên bố hoàn chỉnh đầu tiên về bảy tiên đề này được nhà toán học và nghệ nhân gấp giấy người Pháp Jacques Justin đưa ra vào năm 1986. Tuy nhiên, chúng không được chú ý cho đến khi sáu tiên đề đầu tiên được hai nhà toán học là Humiaki Huzita và Benedetto Scimemi trình bày tại hội nghị quốc tế đầu tiên về khoa học và công nghệ origami (The first International Meeting of Origami Science and Technology), được tổ chức vào năm 1989 tại Ferrara, Ý. Và vào năm 2001, nhà toán học Koshiro Hatori mới tái phát hiện lại tiên đề thứ bảy mà nhà toán học Jacques Justin từng tìm ra trước đó.
+
+<!--(. . . . . . Phát triển tiên đề  lý thuyết)
+(. . . . . . Kết quả từ Origami hình học.)
+(. . . . . . Việc sử dụng Origami đã giúp chúng ta mở rộng trường để giải quyết chia ba một góc qua số nguyên tố pierpont)
+(. . . . . . Kết: )
+(nhiều vấn đề khác ở chủ đề mà ta đang bàn được mở rộng hơn như ta có thể giải phương trình bậc 5 bằng Origami ? Hay những đa nếp gấp khác , ..vv..)--> 
+
+<!--_ Các vấn đề kĩ thuật tồn đọng cần giải quyết
+Phần 1: +) Chia ba một góc Hippias (có lý thuyết lẫn cách chứng minh)
+Phần 2: +) Đại số vào hình học của Decartes 
+    +) Chứng minh khả thi Wantzel 
+    +) Đa giác để chia ba một góc trường hợp đặc biệt
+Phần 4: +) Phần Origami (tiên đề + lý thuyết + chứng minh + thực hành)
+    +) Mở rộng trường cho Origami--> 
